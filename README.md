@@ -18,6 +18,16 @@
 
         Formal methods (TLA+/Coq)
 
+        Online Resources
+
+            LeetCode
+
+            Codewars
+
+            Hacker Rank
+
+            GeeksforGeeks
+
     Programming Languages
 
         Assembly (Depends on Device)
@@ -150,6 +160,8 @@
         Partial Differential Equations
 
         Finite Element Methods
+
+        Finite Element Analysis
 
     UX/UI
 
