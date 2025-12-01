@@ -303,7 +303,7 @@
 
     High Performance Computing
 
-        OpenMPI/MPI for concurrency
+        OpenMP/MPI for concurrency
 
     Quantum Computing
 
