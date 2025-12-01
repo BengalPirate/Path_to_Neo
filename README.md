@@ -24,6 +24,8 @@
 
             Codewars
 
+            Codeforces
+
             Hacker Rank
 
             GeeksforGeeks
@@ -280,6 +282,22 @@
     C Programming with Linux
 
         (https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+
+**Board Repair**
+
+    IPC-A-610 – Acceptability of Electronic Assemblies
+    
+    IPC-7711/7721 – Rework & Repair Certification
+    
+    IPC Designer Certification (CID / CID+)
+    
+    IPC J-STD-001 Certification
+    
+    IPC/WHMA-A-620 Certification – Cable & Wire Harness Assembly
+    
+    IPC-A-600 Certification – PCB Acceptability
+
+    FCC Technician License
 
 **High Performance and Quantum Computing**
 
