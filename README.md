@@ -253,6 +253,10 @@
 
         Fundamentals of PCB Material Selection and Stack-Up Design
 
+    PLC (CLICK PLUS Programmable Controllers)
+
+        Ladder Logic
+
 **Firmware Engineering**
 
     Introduction to Embedded Systems Software and Development Environments
