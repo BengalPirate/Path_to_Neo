@@ -313,4 +313,31 @@
 
         Qiskit, Cirq
 
+Useful Resources
+
+CodeChef
+
+    https://www.codechef.com/
+
+CodePath
+
+    https://www.codepath.org
+
+CodetheDream
+
+    https://codethedream.org/course-descriptions/
+
+$$$
+CodeCrafters
+
+    https://codecrafters.io
+
+Headstarter 
+
+    https://accelerator.headstarter.co/?ref=platform
+
+
+
+    
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIzaTB4aWF3ejg5Ymk4c2d2cThtZGt0YjF2eDRqM2dwbHBlbTA3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" alt="Video" height="250px"> 
