@@ -308,6 +308,11 @@
     High Performance Computing
 
         OpenMP/MPI for concurrency
+        https://youtu.be/V1tINV2-9p4?si=mO5oysDxsObWkSlQ
+        https://hpc-portal.eu
+        https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
+        https://ocw.mit.edu/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/
+        https://ocw.mit.edu/courses/18-337j-parallel-computing-fall-2011/
 
     Quantum Computing
 
