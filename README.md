@@ -318,6 +318,21 @@
 
         Qiskit, Cirq
 
+**Project Management**
+    
+    Professional Scrum Master I
+    Professional Scrum Master II
+    Professional Scrum Master III
+    Professional Scrum Master AI Essentials
+    https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
+
+**Product Management**
+
+    Certified Quality Engineer
+    Certified Relibility Engineer
+    Certified Software Quality Engineer
+    https://www.asq.org/cert/catalog/engineering
+
 Useful Resources
 
 CodeChef
