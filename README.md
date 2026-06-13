@@ -324,14 +324,19 @@
     Professional Scrum Master II
     Professional Scrum Master III
     Professional Scrum Master AI Essentials
-    https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
+        https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
 
 **Product Management**
 
     Certified Quality Engineer
     Certified Relibility Engineer
     Certified Software Quality Engineer
-    https://www.asq.org/cert/catalog/engineering
+        https://www.asq.org/cert/catalog/engineering
+    ISTQB Testing Certifications
+        https://istqb.org/certifications/
+    Certified Six Sigma Black Belt
+        https://www.asq.org/cert/catalog/six-sigma
+    
 
 Useful Resources
 
