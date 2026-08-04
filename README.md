@@ -257,6 +257,10 @@
 
         Ladder Logic
 
+    Semiconductor Fabrication
+    
+        https://engineering.purdue.edu/online/semiconductors/semiconductor-fabrication-101?utm_source=chatgpt.com
+
 **Firmware Engineering**
 
     Introduction to Embedded Systems Software and Development Environments
